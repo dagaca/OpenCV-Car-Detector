@@ -32,9 +32,15 @@ Min Neighbors: Bir nesnenin etrafındaki komşu dikdörtgenlerin sayısını kon
 Min Size: Minimum algılanabilir nesne boyutunu belirler.
 
 
+## Notlar
+
+Video izleme sırasında "Q" tuşuna basarak videoyu duraklatabilir, parametreleri güncelleyebilir ve tekrar "Start Detection" düğmesine basarak izlemeye devam edebilirsiniz.
+
+
+
 ## Örnek Sonuçlar
 
-Aşağıdaki bağlantıdan örnek sonuçları izleyebilirsiniz:
+Aşağıdaki videodan örnek sonuçları izleyebilirsiniz:
 
 https://github.com/dagaca/OpenCV-Car-Detector/assets/80363244/f1616c53-b74e-4cbc-a781-d027814f33b2
 
