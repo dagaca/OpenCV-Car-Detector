@@ -117,5 +117,5 @@ class CarDetectionApp:
 if __name__ == "__main__":
     # Create Tkinter root window and start the application
     root = tk.Tk()
-    app = CarDetectionApp(root, 'C:/Users/dagac/Desktop/People Flow Counter/videos/4K Road traffic video for object detection and tracking - free download now!.mp4')
+    app = CarDetectionApp(root, 'C:/path/to/your/video.mp4') # Replace with your video path
     root.mainloop()
