@@ -35,7 +35,7 @@ Min Size: Minimum algılanabilir nesne boyutunu belirler.
 ## Notlar
 
 - Video izleme sırasında "Q" tuşuna basarak videoyu duraklatabilir, parametreleri güncelleyebilir ve tekrar "Start Detection" düğmesine basarak izlemeye devam edebilirsiniz.
-- Bu örnek için, [video.mp4](./videos/4K_Road_traffic_video_for_object_detection_and_tracking.mp4) dosyasını kullanabilirsiniz.
+- Bu örnek için, [video.mp4](./videos/4K Road traffic video for object detection and tracking.mp4) dosyasını kullanabilirsiniz.
 
 
 ## Örnek Sonuçlar
