@@ -7,6 +7,7 @@ Bu uygulama, bir video akışındaki araçları tespit etmek için Haar Cascade 
 - Python 3.x
 - OpenCV
 - Tkinter
+- haarcascade_car.xml dosyası
 
 
 ## Kurulum
